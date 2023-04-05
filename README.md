@@ -1,4 +1,4 @@
-# Attention Mechansim 
+# Attention Mechanism 
 ### *- Implementation of Baudanau and Luong Attention using Pytorch -*
 
 #### Dependency
